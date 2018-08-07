@@ -1,2 +1,3 @@
 # murphy
-Examine Tweets from Senator Chris Murphy
+
+Purpose of this project is to examine the tweets from Connecticut Senator Chris Murphy.
